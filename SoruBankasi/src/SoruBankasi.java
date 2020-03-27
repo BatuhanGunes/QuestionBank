@@ -14,11 +14,11 @@ public class SoruBankasi {
         sorular.add("3 Buyuk Dince Kutsal Sayilan yer Neresidir?\n a)Mekke b)Kudus c)Roma d)istanbul");
         sorular.add("Romen Rakaminda Hangi Sayi Yoktur?\n a)0 b)50 c)100 d)1000");
         sorular.add("2003 yilinda Euro Vizyon Yarismasinda 1. olan sanatci kimdir? \n a)Athena b)Sertap Erener c)Sebnem Ferah d)Ajda Pekkan");
-        sorular.add("Asagidaki ulkelerden hangisinin nufusu daha fazladir?\n a)Fransa b)ispanya c)Ýngiltere d)Almanya");
-        sorular.add("Canakkale Hangi Savasýn bir Cephesidir.\n a)Kurtulus Savasi b)1.Dunya Savasi c)2.Dunya Savasi d)Balkan Savasi");
-        sorular.add("Halifelik ilk hangi padisah zamaninda Osmanlýlara gecmistir? \n a)Fatih Sultan Mehmet b)kanuni Sultan Selim c)Osman Gazi d)Yavuz Sultan Selim");
-        sorular.add("Hangisi 1923 sonrasi bir donem Ýstanbul'un bir ilcesiydi?\n a)yalova b)gebze c)Corlu d)besiktas");
-        sorular.add("Ýslam inancina gore hangisi daha once yasamýstýr?\n a)Hz.Ýsa b)Hz.Musa c)Hz.Muhammed d)Hz.Nuh");
+        sorular.add("Asagidaki ulkelerden hangisinin nufusu daha fazladir?\n a)Fransa b)ispanya c)ingiltere d)Almanya");
+        sorular.add("Canakkale Hangi Savasin bir Cephesidir.\n a)Kurtulus Savasi b)1.Dunya Savasi c)2.Dunya Savasi d)Balkan Savasi");
+        sorular.add("Halifelik ilk hangi padisah zamaninda Osmanlilara gecmistir? \n a)Fatih Sultan Mehmet b)kanuni Sultan Selim c)Osman Gazi d)Yavuz Sultan Selim");
+        sorular.add("Hangisi 1923 sonrasi bir donem istanbul'un bir ilcesiydi?\n a)yalova b)gebze c)Corlu d)besiktas");
+        sorular.add("islam inancina gore hangisi daha once yasamistir?\n a)Hz.isa b)Hz.Musa c)Hz.Muhammed d)Hz.Nuh");
         sorular.add("Yunanistan'in Baskenti neresidir? \n a)Selanik b)Atina C)Pire d)Roma");
         
         cevaplar.add('b');		//1
